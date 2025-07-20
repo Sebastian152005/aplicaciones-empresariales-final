@@ -1,0 +1,15 @@
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\bin\Debug\net8.0\pe.com.gctelecom.dal.deps.json
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\bin\Debug\net8.0\pe.com.gctelecom.dal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\bin\Debug\net8.0\pe.com.gctelecom.dal.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\bin\Debug\net8.0\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\bin\Debug\net8.0\pe.com.gctelecom.bo.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.csproj.AssemblyReference.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.AssemblyInfoInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.AssemblyInfo.cs
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.csproj.CoreCompileInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.g.8543DFD4.Up2Date
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\refint\pe.com.gctelecom.dal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\pe.com.gctelecom.dal.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.dal\obj\Debug\net8.0\ref\pe.com.gctelecom.dal.dll

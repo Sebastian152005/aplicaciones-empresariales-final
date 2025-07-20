@@ -1,0 +1,12 @@
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\bin\Debug\net8.0\pe.com.gctelecom.bo.deps.json
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\bin\Debug\net8.0\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\bin\Debug\net8.0\pe.com.gctelecom.bo.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.AssemblyInfoInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.AssemblyInfo.cs
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.csproj.CoreCompileInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\refint\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\ref\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bo\obj\Debug\net8.0\pe.com.gctelecom.bo.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.bal.deps.json
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.bal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.bal.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.bo.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.dal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.dal.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\bin\Debug\net8.0\pe.com.gctelecom.bo.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.csproj.AssemblyReference.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.AssemblyInfoInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.AssemblyInfo.cs
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.csproj.CoreCompileInputs.cache
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.g.7BCDDFD4.Up2Date
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\refint\pe.com.gctelecom.bal.dll
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\pe.com.gctelecom.bal.pdb
+E:\Users\Dave\Downloads\Final DESARROLLO DE APLICACIONES I\final-aplicaciones-empresariales-gctelecom-main\src\pe.com.gctelecom.bal\obj\Debug\net8.0\ref\pe.com.gctelecom.bal.dll
